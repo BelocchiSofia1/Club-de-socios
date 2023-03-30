@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "leonel",
+    "apellido": "messi",
+    "fechaNacimiento": "1987/06/24",
+    "documento": "3566666",
+    "telefono": "1155234",
+    "miembroDesde": "30/3/2023",
+    "deporte": 0
+  },
+  {
+    "nombre": "Emanuel",
+    "apellido": "ginobili",
+    "fechaNacimiento": "1977/07/28",
+    "documento": "2856632",
+    "telefono": "255569",
+    "miembroDesde": "30/3/2023",
+    "deporte": 1
+  },
+  {
+    "nombre": "Jose",
+    "apellido": "meolans",
+    "fechaNacimiento": "1978/07/22",
+    "documento": "275691",
+    "telefono": "254543",
+    "miembroDesde": "30/3/2023",
+    "deporte": 4
+  }
+]
